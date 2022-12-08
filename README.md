@@ -1,1 +1,1 @@
-system deveops
+Shell, init files, variables and expansions
